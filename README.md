@@ -1,2 +1,2 @@
-# cosmos-SDK_Tutorial
+# Cosmos-SDK Tutorials
 Tài liệu hướng dẫn Cosmos SDK
